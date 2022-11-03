@@ -308,14 +308,22 @@ i:hover {
            width: 90%;
        }
    
-   
+       .green-container{
+
+        top: 50%;
+        margin-top: 90%;
+
+
+
+
+       }
        .more-icons{
            flex-wrap: wrap;
            display: flex;
            align-content: space-between;
            gap: 10%;
            flex-direction: column;
-           align-content: flex-start;
+           align-content: flex-end;
        }
    
        .social-net{
